@@ -1,0 +1,460 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"text"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"b",
+				"border-radius\tproperty"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"re",
+				"register"
+			],
+			[
+				"date",
+				"date_added"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"ob",
+				"ob_start"
+			],
+			[
+				"btn",
+				"btn-sm"
+			],
+			[
+				"edit",
+				"edit_product"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"pro",
+				"product_id"
+			],
+			[
+				"product",
+				"product_id"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"db_",
+				"db_product_cat_id"
+			],
+			[
+				"cat_",
+				"cat_id"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"stmt",
+				"stmt"
+			],
+			[
+				"de",
+				"default_cat"
+			],
+			[
+				"defu",
+				"default_cats"
+			],
+			[
+				"fet",
+				"fetchAll"
+			],
+			[
+				"cat",
+				"cat_id"
+			],
+			[
+				"D",
+				"Draft"
+			],
+			[
+				"DATA",
+				"DATABASE"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"produ",
+				"product_id"
+			],
+			[
+				"product_i",
+				"product_image"
+			],
+			[
+				"produc",
+				"product_name"
+			],
+			[
+				"view",
+				"view_all_products"
+			],
+			[
+				"add",
+				"add_products"
+			],
+			[
+				"has",
+				"has-sub"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"product_cat",
+				"product_cat_id"
+			],
+			[
+				"por",
+				"product_image"
+			],
+			[
+				"name",
+				"Name"
+			],
+			[
+				"ca",
+				"Category"
+			],
+			[
+				"pr",
+				"Product"
+			],
+			[
+				"q",
+				"Quantity"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6231,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/demo/demo.css",
+			"settings":
+			{
+				"buffer_size": 7283,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/now-ui-kit.min.css",
+			"settings":
+			{
+				"buffer_size": 137420,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/macbook/Desktop/Photo Album/Default Template"
+	],
+	"file_history":
+	[
+		"/Users/macbook/Desktop/Photo Album/Samples/material-dashboard-html-v2.1.0/examples/user.html",
+		"/Users/macbook/Desktop/Photo Album/Default Template/index.html",
+		"/Users/macbook/Desktop/Photo Album/Default Template/index2.html",
+		"/Users/macbook/Desktop/Photo Album/Samples/material-dashboard-html-v2.1.0/index.html",
+		"/Users/macbook/Desktop/Photo Album/Samples/material-dashboard-html-v2.1.0/README.md",
+		"/Applications/XAMPP/xamppfiles/htdocs/kingot/includes/db.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/kingot/admin/delete_product.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/kingot/test.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/kingot/admin/includes/admin_header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/kingot/admin/includes/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/index.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"card",
+			"assets",
+			"card",
+			".bg-prim",
+			".bg-primary",
+			"design_app",
+			"btn-round",
+			"creative-tim-logo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"assetss"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4699,
+								4699
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1348.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "assets/demo/demo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6641,
+								6641
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6150.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/css/now-ui-kit.min.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 137420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								103480,
+								103484
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 638434.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Atbu-album.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/XAMPP/xamppfiles/htdocs/kingot/admin/kot_site.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

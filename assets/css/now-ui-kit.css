@@ -5838,7 +5838,7 @@ img {
 .section {
   padding: 70px 0;
   position: relative;
-  background: #FFFFFF;
+  background: #FFFFF5;
 }
 
 .section .row+.category {
@@ -6356,6 +6356,39 @@ img {
 }
 
 @media screen and (max-width: 991px) {
+
+  /* new add begin */
+  .input-group-addon {
+    background-color: #2CA8FF !important;
+    border-left: 0;
+}
+
+.input-group-addon, .input-group-btn {
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
+.input-group-addon {
+    padding: .5rem .75rem;
+    margin-bottom: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.25;
+    color: white;
+    text-align: center;
+    background-color: #e9ecef;
+    border-left: 1px solid #f96332;
+    border: 0px solid rgba(0, 0, 0, 0.15);
+    -webkit-border-radius: .25rem;
+    -moz-border-radius: .25rem;
+    /*border-radius: .90rem;*/
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+
+/* new add end */
+
+
   .sidebar-collapse .navbar-collapse {
     position: fixed;
     display: block;
@@ -6365,7 +6398,7 @@ img {
     right: 0;
     z-index: 1032;
     visibility: visible;
-    background-color: #999;
+    background-color: #007bff;
     overflow-y: visible;
     border-top: none;
     text-align: left;
@@ -6758,6 +6791,9 @@ img {
 }
 
 @media screen and (min-width: 992px) {
+
+
+
   .navbar-collapse:not(.has-image) {
     background: transparent !important;
   }
@@ -6786,6 +6822,40 @@ img {
     -ms-transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);
     transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);
   }
+
+/*new addon*/
+.input-group-addon {
+    background-color: #2CA8FF !important;
+    border-left: 0;
+}
+
+.input-group-addon, .input-group-btn {
+    white-space: nowrap;
+    vertical-align: middle;
+}
+
+.input-group-addon {
+    padding: .5rem .75rem;
+    margin-bottom: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.25;
+    color: white;
+    text-align: center;
+    background-color: #e9ecef;
+    border-left: 1px solid #f96332;
+    border: 0px solid rgba(0, 0, 0, 0.15);
+    -webkit-border-radius: .25rem;
+    -moz-border-radius: .25rem;
+    /*border-radius: .90rem;*/
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+}
+/*new addon end*/
+
+
+
+
   .burger-menu .navbar-collapse:before {
     background: #f96332;
     /* For browsers that do not support gradients */

@@ -1447,7 +1447,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   font-weight: 400;
   font-size: 0.8571em;
   line-height: 1.35em;
-  margin: 10px 1px;
+  /*margin: 10px 1px;*/
   border: none;
   border-radius: 0.1875rem;
   padding: 11px 22px;

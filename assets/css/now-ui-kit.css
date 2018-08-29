@@ -5895,6 +5895,16 @@ img {
   height: 100%;
   z-index: -1;
 }
+/*new one*/
+.page-header .page-header-image2 {
+  position: absolute;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  opacity: 0.39;
+}
 
 .page-header .content-center {
   position: absolute;

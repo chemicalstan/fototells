@@ -1,0 +1,8 @@
+<?php 
+
+unlink('deletethisfile.php');
+
+
+
+
+ ?>

@@ -1,0 +1,22 @@
+div .container{
+
+position: absolute;
+width: 1000px;
+height: 700px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+}
+div .image{
+
+position: absolute;
+width: 206px;
+height: 500px;
+left: 0px;
+top: 0px;
+
+background: black;
+opacity: 0.37;
+}

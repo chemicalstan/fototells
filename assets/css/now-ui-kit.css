@@ -3387,7 +3387,7 @@ small {
 }
 
 a {
-  color: #f96332;
+  color: #2CA8FF;
 }
 
 a:hover,
@@ -6372,6 +6372,12 @@ img {
     height: 160px;
   }
 
+.portfolio {
+    width: 290px;
+    height: 195px;
+  }
+
+
   /* new add begin */
 .input-group-addon {
     background-color: #2CA8FF !important;
@@ -6812,6 +6818,12 @@ img {
   }
 
 
+.portfolio {
+    width: 370px;
+    height: 247px;
+  }
+
+
   .navbar-collapse:not(.has-image) {
     background: transparent !important;
   }
@@ -7165,6 +7177,12 @@ img {
     height: 240px;
   }
 
+
+.portfolio {
+    width: 470px;
+    height: 255px;
+  }
+
   .image-container.image-left {
     margin-bottom: 220px;
   }
@@ -7216,6 +7234,7 @@ img {
     height: 160px;
   }
 
+
   .section-images .hero-images-container-1 {
     right: 9%;
     max-width: 370px;
@@ -7250,6 +7269,12 @@ img {
 
 @media screen and (max-width: 347px) {
 .album-cover {
+    width: 470px;
+    height: 195px;
+  }
+
+
+.portfolio {
     width: 470px;
     height: 195px;
   }

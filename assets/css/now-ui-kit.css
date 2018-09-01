@@ -7234,7 +7234,6 @@ img {
     height: 160px;
   }
 
-
   .section-images .hero-images-container-1 {
     right: 9%;
     max-width: 370px;
@@ -7290,9 +7289,11 @@ img {
 }
 
 
-@media screen and (min-width: 370px) and (max-width: 1200px){
-/**/
-
+@media screen and (min-width: 370px){
+  .album-content {
+    height: 160px;
+    width: 170px;
+  }
 }
 
 

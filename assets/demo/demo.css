@@ -309,7 +309,7 @@
 @media (max-width: 768px) {
   .btn,
   .btn-morphing {
-    /*margin-bottom: 10px;*/
+    margin-bottom: 5px;
   }
   .parallax .motto {
     top: 170px;
@@ -455,9 +455,9 @@
 }
 
 .brand .n-logo {
-  max-width: 100px;
+  max-width: 140px;
   margin-bottom: 40px;
-  opacity: 0.48;
+  opacity: 0.7;
   border-radius: 10px;
 }
 

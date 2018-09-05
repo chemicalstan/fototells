@@ -2356,6 +2356,8 @@ fieldset[disabled] .btn-neutral.active {
   border-width: 1px;
   border-radius: 30px !important;
   padding: 11px 23px;
+
+
 }
 
 .btn-round.btn-simple {
@@ -5557,6 +5559,8 @@ img {
 
 .profile-page .profile-container {
   color: #FFFFFF;
+  height: 285px;
+  border-radius: 27px;
 }
 
 .profile-page .photo-container {
@@ -6438,13 +6442,13 @@ img {
   .sidebar-collapse .navbar-collapse:before {
     background: #f96332;
     /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(#f96332 0%, #000 80%);
+    background: -webkit-linear-gradient(#007bff 0%, #000 80%);
     /* For Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(#f96332 0%, #000 80%);
+    background: -o-linear-gradient(#007bff 0%, #000 80%);
     /* For Opera 11.1 to 12.0 */
-    background: -moz-linear-gradient(#f96332 0%, #000 80%);
+    background: -moz-linear-gradient(#007bff 0%, #000 80%);
     /* For Firefox 3.6 to 15 */
-    background: linear-gradient(#f96332 0%, #000 80%);
+    background: linear-gradient(#007bff 0%, #000 80%);
     /* Standard syntax (must be last) */
     opacity: 0.76;
     filter: alpha(opacity=76);
@@ -6576,7 +6580,7 @@ img {
     opacity: 0;
   }
   .sidebar-collapse [class*="navbar-expand-"] .navbar-collapse {
-    width: 300px;
+    width: 180px;
   }
   .sidebar-collapse .wrapper {
     -webkit-transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);
@@ -7160,6 +7164,7 @@ img {
 }
 
 @media screen and (min-width: 768px) {
+
   .image-container.image-right {
     top: 80px;
     margin-left: -100px;
@@ -7171,7 +7176,9 @@ img {
 }
 
 @media screen and (max-width: 768px) {
-
+  .profile-container {
+    padding-bottom: 7px;
+  }
 .album-cover {
     width: 470px;
     height: 240px;
@@ -7290,6 +7297,10 @@ img {
 
 
 @media screen and (min-width: 370px){
+  .profile-container {
+    padding-bottom: 7px;
+  }
+
   .album-content {
     height: 160px;
     width: 170px;

@@ -4,6 +4,62 @@
 		"selected_items":
 		[
 			[
+				"bg",
+				"bg-info"
+			],
+			[
+				"pri",
+				"profile-pic"
+			],
+			[
+				"por",
+				"portfolio4"
+			],
+			[
+				"atbu",
+				"atbu-logo"
+			],
+			[
+				"btn",
+				"btn-morphing"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"nav",
+				"nav-item"
+			],
+			[
+				"bt",
+				"btn"
+			],
+			[
+				"paddi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"col-",
+				"col-md-6"
+			],
+			[
+				"tex",
+				"text-decoration\tproperty"
+			],
+			[
+				"te",
+				"text-decoration\tproperty"
+			],
+			[
+				"p",
+				"portfolio2"
+			],
+			[
+				"al",
+				"album-cover"
+			],
+			[
 				"j",
 				"jpg"
 			],
@@ -42,10 +98,6 @@
 			[
 				"ob",
 				"ob_start"
-			],
-			[
-				"btn",
-				"btn-sm"
 			],
 			[
 				"edit",
@@ -144,10 +196,6 @@
 				"product_cat_id"
 			],
 			[
-				"por",
-				"product_image"
-			],
-			[
 				"name",
 				"Name"
 			],
@@ -168,10 +216,67 @@
 	"buffers":
 	[
 		{
+			"file": "index2.html",
+			"settings":
+			{
+				"buffer_size": 10274,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "login.html",
+			"settings":
+			{
+				"buffer_size": 6907,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 10969,
+				"buffer_size": 8022,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "index1.html"
+			}
+		},
+		{
+			"file": "album-content.html",
+			"settings":
+			{
+				"buffer_size": 9298,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "album-content.html"
+			}
+		},
+		{
+			"file": "edit-profile.html",
+			"settings":
+			{
+				"buffer_size": 12296,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "profile2.html",
+			"settings":
+			{
+				"buffer_size": 7806,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "profile2.html"
+			}
+		},
+		{
+			"file": "profile.html",
+			"settings":
+			{
+				"buffer_size": 8820,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -180,27 +285,34 @@
 			"file": "Admin/index.html",
 			"settings":
 			{
-				"buffer_size": 5413,
+				"buffer_size": 12242,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "index.html"
 			}
 		},
 		{
-			"file": "upload_page.html",
+			"file": "assets/css/now-ui-kit.css",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 177602,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "assets/css/now-ui-kit.css",
+			"file": "assets/scss/now-ui-kit.scss",
 			"settings":
 			{
-				"buffer_size": 176817,
-				"encoding": "UTF-8",
+				"buffer_size": 1622,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/scss/now-ui-kit/_inputs.scss",
+			"settings":
+			{
+				"buffer_size": 6719,
 				"line_ending": "Unix"
 			}
 		},
@@ -208,7 +320,7 @@
 			"file": "assets/demo/demo.css",
 			"settings":
 			{
-				"buffer_size": 7287,
+				"buffer_size": 7281,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -256,12 +368,18 @@
 	"expanded_folders":
 	[
 		"/Users/macbook/Desktop/Photo Album/Default Template",
-		"/Users/macbook/Desktop/Photo Album/Default Template/Admin",
 		"/Users/macbook/Desktop/Photo Album/Default Template/assets",
-		"/Users/macbook/Desktop/Photo Album/Default Template/assets/img"
+		"/Users/macbook/Desktop/Photo Album/Default Template/assets/scss",
+		"/Users/macbook/Desktop/Photo Album/Default Template/assets/scss/now-ui-kit",
+		"/Users/macbook/Desktop/Photo Album/Default Template/assets/scss/now-ui-kit/cards",
+		"/Users/macbook/Desktop/Photo Album/Default Template/assets/scss/now-ui-kit/mixins"
 	],
 	"file_history":
 	[
+		"/Users/macbook/Desktop/Photo Album/Default Template/login.html",
+		"/Users/macbook/Desktop/Photo Album/Default Template/upload_page.html",
+		"/Users/macbook/Desktop/Photo Album/Default Template/edit-profile.html",
+		"/Users/macbook/Desktop/Photo Album/Default Template/profile.html",
 		"/Users/macbook/Desktop/Photo Album/Samples/material-dashboard-html-v2.1.0/examples/user.html",
 		"/Users/macbook/Desktop/Photo Album/Default Template/index.html",
 		"/Users/macbook/Desktop/Photo Album/Default Template/index2.html",
@@ -290,6 +408,42 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"margin-bottom: 0px",
+			"margin-buttom",
+			"../",
+			"edit",
+			"n-logo",
+			"atbu",
+			"linear-g",
+			"nax",
+			"btn",
+			"ul",
+			"atbu",
+			"style\"",
+			"style",
+			"orange",
+			"Circle Image",
+			"circle image",
+			"admin",
+			"-->\n",
+			"atbu",
+			"asset",
+			"./asse",
+			"@media",
+			"max-width",
+			"album-co",
+			"992",
+			"991",
+			"atbu",
+			"favicon",
+			"gear",
+			"../a",
+			"carousel-caption",
+			"@media",
+			"991",
+			"992",
+			"album-cover",
+			".album-cover",
 			"991",
 			"btn-mor",
 			"a.btn",
@@ -328,6 +482,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"./",
+			"../asse",
+			"a",
 			"assetss"
 		],
 		"reverse": false,
@@ -339,24 +496,24 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 9,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "index2.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10969,
+						"buffer_size": 10274,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6724,
-								6724
+								4598,
+								4489
 							]
 						],
 						"settings":
@@ -366,48 +523,202 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1922.0,
+						"translation.y": 1217.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "Admin/index.html",
+					"file": "login.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5413,
+						"buffer_size": 6907,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4163,
-								4163
+								3784,
+								3785
 							]
 						],
 						"settings":
 						{
-							"auto_name": "index.html",
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1367.0,
+						"translation.y": 962.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "upload_page.html",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 8022,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4458,
+								4458
+							]
+						],
+						"settings":
+						{
+							"auto_name": "index1.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1247.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "album-content.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4264,
+								4312
+							]
+						],
+						"settings":
+						{
+							"auto_name": "album-content.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1052.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "edit-profile.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4112,
+								4112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1699.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "profile2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2316,
+								2316
+							]
+						],
+						"settings":
+						{
+							"auto_name": "profile2.html",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 186.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "profile.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8820,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4463,
+								4463
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1202.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Admin/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12242,
 						"regions":
 						{
 						},
@@ -415,11 +726,12 @@
 						[
 							[
 								0,
-								0
+								12242
 							]
 						],
 						"settings":
 						{
+							"auto_name": "index.html",
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
@@ -428,24 +740,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 7,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 8,
 					"file": "assets/css/now-ui-kit.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 176817,
+						"buffer_size": 177602,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								175072,
-								175015
+								174042,
+								174045
 							]
 						],
 						"settings":
@@ -455,27 +767,85 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 107717.0,
+						"translation.y": 107177.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "assets/scss/now-ui-kit.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1245,
+								1247
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 306.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "assets/demo/demo.css",
-					"semi_transient": false,
+					"buffer": 10,
+					"file": "assets/scss/now-ui-kit/_inputs.scss",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 7287,
+						"buffer_size": 6719,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4441,
-								4441
+								4234,
+								4249
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2657.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "assets/demo/demo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6596,
+								6596
 							]
 						],
 						"settings":
@@ -485,14 +855,14 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4352.0,
+						"translation.y": 6542.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 12,
 					"file": "assets/css/now-ui-kit.min.css",
 					"semi_transient": false,
 					"settings":
@@ -504,19 +874,19 @@
 						"selection":
 						[
 							[
-								86287,
-								86272
+								91031,
+								91038
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/CSS/CSS.sublime-syntax"
 						},
-						"translation.x": 518469.0,
+						"translation.x": 551312.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 12,
 					"type": "text"
 				}
 			]

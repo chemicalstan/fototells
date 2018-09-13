@@ -309,7 +309,7 @@
 @media (max-width: 768px) {
   .btn,
   .btn-morphing {
-    margin-bottom: 5px;
+    margin-bottom: 1px;
   }
   .parallax .motto {
     top: 170px;

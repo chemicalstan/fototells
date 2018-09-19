@@ -6369,6 +6369,15 @@ img {
   color: #FFFFFF;
 }
 
+
+@media screen and (max-width: 1500px) {
+
+.table-photo {
+    height: 60px;
+    width: 60px;
+  }
+}
+
 @media screen and (max-width: 991px) {
 
 .album-cover {

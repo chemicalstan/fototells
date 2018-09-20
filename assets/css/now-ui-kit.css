@@ -3466,7 +3466,7 @@ p {
 
 .title {
   font-weight: 700;
-  padding-top: 30px;
+  padding-top: 11px;
 }
 
 .title.title-up {
@@ -7187,6 +7187,8 @@ img {
 @media screen and (max-width: 768px) {
   .profile-container {
     padding-bottom: 7px;
+    height: 200px !important;
+
   }
 .album-cover {
     width: 470px;

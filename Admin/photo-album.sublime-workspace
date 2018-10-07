@@ -159,7 +159,7 @@
 			"file": "create-album.html",
 			"settings":
 			{
-				"buffer_size": 9197,
+				"buffer_size": 9387,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "create-album.html"
@@ -169,7 +169,7 @@
 			"file": "/Users/macbook/Desktop/Photo Album/Default Template/profile2.html",
 			"settings":
 			{
-				"buffer_size": 7846,
+				"buffer_size": 7877,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -178,17 +178,61 @@
 			"file": "add-member.html",
 			"settings":
 			{
-				"buffer_size": 9299,
+				"buffer_size": 9489,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "add-member.html"
 			}
 		},
 		{
+			"file": "/Users/macbook/Desktop/Photo Album/Default Template/register.html",
+			"settings":
+			{
+				"buffer_size": 12974,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/macbook/Desktop/Photo Album/Default Template/upload_page.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/macbook/Desktop/Photo Album/Default Template/edit-profile.html",
+			"settings":
+			{
+				"buffer_size": 12868,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/macbook/Desktop/Photo Album/Default Template/index1.html",
+			"settings":
+			{
+				"buffer_size": 7777,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/macbook/Desktop/Photo Album/Default Template/index2.html",
+			"settings":
+			{
+				"buffer_size": 10295,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "view_albums.html",
 			"settings":
 			{
-				"buffer_size": 12160,
+				"buffer_size": 12350,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "view_albums.html"
@@ -198,7 +242,25 @@
 			"file": "/Users/macbook/Desktop/Photo Album/Default Template/profile.html",
 			"settings":
 			{
-				"buffer_size": 9671,
+				"buffer_size": 9413,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/macbook/Desktop/Photo Album/Default Template/album-content.html",
+			"settings":
+			{
+				"buffer_size": 9341,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/macbook/Desktop/Photo Album/Default Template/index.html",
+			"settings":
+			{
+				"buffer_size": 6953,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -207,27 +269,27 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 7165,
+				"buffer_size": 7355,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
 				"name": "index.html"
 			}
 		},
 		{
-			"file": "view_members.html",
+			"file": "all-users.html",
 			"settings":
 			{
-				"buffer_size": 11251,
+				"buffer_size": 11760,
 				"encoding": "UTF-8",
 				"line_ending": "Unix",
-				"name": "view_members.html"
+				"name": "all-users.html"
 			}
 		},
 		{
-			"file": "/Users/macbook/Desktop/Photo Album/Default Template/assets/css/now-ui-kit.css",
+			"file": "view_members.html",
 			"settings":
 			{
-				"buffer_size": 177701,
+				"buffer_size": 11441,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -266,11 +328,14 @@
 	"expanded_folders":
 	[
 		"/Users/macbook/Desktop/Photo Album/Default Template",
+		"/Users/macbook/Desktop/Photo Album/Default Template/Admin",
 		"/Users/macbook/Desktop/Photo Album/Default Template/assets"
 	],
 	"file_history":
 	[
 		"/Users/macbook/Desktop/Photo Album/Default Template/assets/css/now-ui-kit.css",
+		"/Users/macbook/Desktop/Photo Album/Default Template/Admin/view_members.html",
+		"/Users/macbook/Desktop/Photo Album/Default Template/Admin/register.html",
 		"/Users/macbook/Desktop/Photo Album/Default Template/Admin/index.html",
 		"/Users/macbook/Desktop/Programming/TEMPLATES/kingot/cozastore 2/blog-detail.html",
 		"/Applications/XAMPP/xamppfiles/htdocs/kingot/includes/db.php",
@@ -296,6 +361,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"chemicalst",
+			".profile-container",
+			"../assets",
 			"@med",
 			"col",
 			"hover row"
@@ -306,6 +374,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"assets"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -328,7 +397,7 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 14,
 			"sheets":
 			[
 				{
@@ -337,15 +406,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9197,
+						"buffer_size": 9387,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6711,
-								6446
+								7726,
+								7726
 							]
 						],
 						"settings":
@@ -356,10 +425,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1812.0,
+						"translation.y": 2582.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -368,15 +437,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7846,
+						"buffer_size": 7877,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5793,
-								5019
+								6628,
+								6628
 							]
 						],
 						"settings":
@@ -386,10 +455,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 350.0,
+						"translation.y": 2177.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 8,
 					"type": "text"
 				},
 				{
@@ -398,15 +467,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9299,
+						"buffer_size": 9489,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								9299
+								7828,
+								7828
 							]
 						],
 						"settings":
@@ -417,27 +486,175 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1346.0,
+						"translation.y": 2597.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "view_albums.html",
+					"file": "/Users/macbook/Desktop/Photo Album/Default Template/register.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12160,
+						"buffer_size": 12974,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7939,
-								7939
+								11334,
+								11334
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3962.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/macbook/Desktop/Photo Album/Default Template/upload_page.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/macbook/Desktop/Photo Album/Default Template/edit-profile.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11232,
+								11242
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3857.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/macbook/Desktop/Photo Album/Default Template/index1.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6123,
+								6123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2012.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/macbook/Desktop/Photo Album/Default Template/index2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8641,
+								8641
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2792.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "view_albums.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10689,
+								10689
 							]
 						],
 						"settings":
@@ -448,27 +665,27 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2430.0,
+						"translation.y": 3092.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 9,
 					"file": "/Users/macbook/Desktop/Photo Album/Default Template/profile.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9671,
+						"buffer_size": 9413,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5199,
-								5199
+								8135,
+								8145
 							]
 						],
 						"settings":
@@ -478,27 +695,87 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1413.0,
+						"translation.y": 2687.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 9,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "index.html",
+					"buffer": 10,
+					"file": "/Users/macbook/Desktop/Photo Album/Default Template/album-content.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7165,
+						"buffer_size": 9341,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4727,
-								4727
+								7705,
+								7715
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2627.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/macbook/Desktop/Photo Album/Default Template/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6953,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5727,
+								5727
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1817.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5694,
+								5694
 							]
 						],
 						"settings":
@@ -509,71 +786,71 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1252.0,
+						"translation.y": 1817.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 5,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "view_members.html",
+					"buffer": 13,
+					"file": "all-users.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 11251,
+						"buffer_size": 11760,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8016,
-								8016
+								10099,
+								10099
 							]
 						],
 						"settings":
 						{
-							"auto_name": "view_members.html",
+							"auto_name": "all-users.html",
 							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2084.0,
+						"translation.y": 3092.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
-					"file": "/Users/macbook/Desktop/Photo Album/Default Template/assets/css/now-ui-kit.css",
+					"buffer": 14,
+					"file": "view_members.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 177701,
+						"buffer_size": 11441,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								150890,
-								150890
+								10023,
+								10023
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 95402.0,
+						"translation.y": 3002.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 7,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
